@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apple (Thailand)</title>
+    <link rel="shortcut icon" href="apple-icon.ico">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <!-- Header Zone -->
+    <header class="header">
+
+        <div class="main-header">
+
+            <div class="header-list">
+                <a href="https://www.apple.com/th/">
+                    <img src="https://image.flaticon.com/icons/png/512/179/179309.png" width="18px"
+                        class="header-item head-apple"></a></img>
+                <a href="https://www.apple.com/th/store" class="header-item head-store">ร้าน</a>
+                <a href="https://www.apple.com/th/mac/" class="header-item head-mac">Mac</a>
+                <a href="https://www.apple.com/th/ipad/" class="header-item head-ipad">iPad</a>
+                <a href="https://www.apple.com/th/iphone/" class="header-item head-iphone">iPhone</a>
+                <a href="https://www.apple.com/th/watch/" class="header-item head-watch">Watch</a>
+                <a href="https://www.apple.com/th/tv/" class="header-item head-tv">TV</a>
+                <a href="https://www.apple.com/th/music/" class="header-item head-music">Music</a>
+                <a href="https://www.apple.com/th/support/" class="header-item head-help">บริการช่วยเหลือ</a>
+                <img src="https://image.flaticon.com/icons/png/512/622/622669.png" width="20px"
+                    class="header-item head-mag">
+                <img src="https://image.flaticon.com/icons/png/512/126/126515.png" width="20px"
+                    class="header-item head-bag">
+            </div>
+
+        </div>
+
+    </header>
+
+    <!-- iPhone 12 Section-->
+    <section class="iphone12">
+
+        <div class="iphone12-main">
+
+            <div class="iphone12-groupinfo">
+                <div class="iphone12-about">
+                    <a href="https://www.apple.com/th/iphone-12/">
+                        <span class="iphone12-moreinfo">ดูเพิ่มเติม ></span>
+                    </a>
+                    <a href="https://www.apple.com/th/shop/buy-iphone/iphone-12">
+                        <span class="iphone12-buy">ซื้อ ></span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="iphone12-picture">
+                <img src="picture/iphone_12_updated__jepm2xpxncuy_mediumtall.jpg" class="iphone12-pic">
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- iPhone12 Pro Section -->
+    <section class="i12pro">
+
+        <div class="iphone12pro">
+
+            <div class="iphone12pro-info">
+                <a href="https://www.apple.com/th/iphone-12-pro/">
+                    <span class="iphone12pro-moreinfo">ดูเพิ่มเติม ></span>
+                </a>
+                <a href="https://www.apple.com/th/shop/goto/buy_iphone/iphone_12_pro">
+                    <span class="iphone12pro-buy">ซื้อ ></span>
+                </a>
+            </div>
+
+            <div class="iphone12pro-pic">
+                <img src="picture/iphone_12_pro_us__e5oyysg4k0ya_largetall.jpg" class="iphone12pro-pic">
+            </div>
+        </div>
+
+    </section>
+
+    <!-- iPad Pro Section-->
+    <section class="ipad-pro">
+
+        <div class="ipadpro">
+
+            <div class="ipadpro-pic">
+                <img src="picture/hero_ipad_pro_non_avail__fcrsmhs4b7ma_mediumtall_2x.jpg" class="appletvplus-movie">
+
+                <div class="ipadpro-info">
+                    <a href="https://www.apple.com/th/ipad-pro/">
+                        <span class="ipadpro-moreinfo">ดูเพิ่มเติม ></span>
+                    </a>
+                    <a href="https://www.apple.com/th/shop/goto/ipad_pro/select">
+                        <span class="ipadpro-buy">ซื้อ ></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- iProduct Section-->
+    <section class="appleproduct">
+
+        <div class="iproduct">
+            <div class="event">
+                <img src="picture/tile_teaser__d7b28bkgvg6e_large_2x.jpg"
+                    class="iproduct-item iproduct-left iproduct-event">
+                <div class="event-info">
+                    <a href="https://www.apple.com/th/apple-events/">
+                        <span class="event-moreinfo">ดูเพิ่มเติม</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="imac">
+                <img src="picture/promo_imac__crg641tip4q6_large.jpg"
+                    class="iproduct-item iproduct-right iproduct-imac">
+                <div class="iproduct-imac-grouptext">
+                    <div class="imac-info">
+                        <a href="https://www.apple.com/th/imac-24/">
+                            <span class="imac-moreinfo">ดูเพิ่มเติม ></span>
+                        </a>
+                        <a href="https://www.apple.com/th/shop/goto/imac">
+                            <span class="imac-buy">ซื้อ ></span></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="school">
+                <img src="picture/promo_bts__bg3cb4kaoqoi_large_2x.jpg"
+                    class="iproduct-item iproduct-left iproduct-backtoshool-pic">
+                <div class="iproduct-college">
+                    <div class="iproduct-backtoschool-info">
+                        <a href="https://www.apple.com/th-edu/shop/back-to-school">
+                            <span class="iproduct-backtoschool">ประหยัดด้วยราคาส่งเสริมการศึกษา ></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="series-6">
+                <img src="picture/promo_watch_series_6_lte__f8lrasjnry2y_small_2x.jpg"
+                    class="iproduct-item iproduct-right">
+                <div class="series6-grouptext">
+                    <div class="series6-info">
+                        <a href="https://www.apple.com/th/apple-watch-series-6/">
+                            <span class="series6-moreinfo">ดูเพิ่มเติม ></span>
+                        </a>
+                        <a href="https://www.apple.com/th/shop/goto/apple_watch">
+                            <span class="series6-buy">ซื้อ ></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="appstore">
+                <img src="picture/tile_appstore_image__bo7esb6hmq02_large_2x.jpg"
+                    class="iproduct-item iproduct-left iproduct-appstore">
+                <div class="iproduct-appstore-grouptext">
+                    <div class="iproduct-appstore-info">
+                        <a
+                            href="https://apps.apple.com/th/app/id1453366542?itscg=10000&itsct=as-NA-home-tile-apl-marv-82520">
+                            <span class="iproduct-appstore-play">เล่น MARVEL Future Revolution เลย ></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="appletv">
+                <img src="picture/tile__cauwwcyyn9hy_xlarge.jpg" class="iproduct-item iproduct-right iproduct-appletv">
+                <div class="iproduct-appletv-grouptext">
+                    <div class="iproduct-appletv-info">
+                        <a href="https://www.apple.com/th/apple-tv-plus/">
+                            <span class="iproduct-appletv-moreinfo">ดูเพิ่มเติม ></span>
+                        </a>
+                        <a
+                            href="https://tv.apple.com/th/channel/tvs.sbd.4000?itscg=10000&itsct=atv-0-apl_hp-pmo_stm-apl-avl-191111">
+                            <span class="iproduct-appletv-tryit-text">ลองใช้ฟรี</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Footer Section -->
+    <section class="foot">
+
+        <div class="footer">
+
+            <div class="footer-condition">
+                <ul>
+                    <li class="condition-1">*ผู้ซื้อที่มีคุณสมบัติผ่านเกณฑ์สามารถรับส่วนลด<wbr><span
+                            class="nowrap">โปรโมชั่น</span>เมื่อซื้อ Mac <wbr><span
+                            class="nowrap">ที่เข้าเกณฑ์</span>หรือ
+                        iPad <wbr><span class="nowrap">ที่เข้าเกณฑ์</span>ร่วมกับ AirPods <wbr><span
+                            class="nowrap">ที่เข้าเกณฑ์</span>ที่ร้านที่มีคุณสมบัติ<wbr><span
+                            class="nowrap">เข้าเกณฑ์</span> โดยจำกัดผลิตภัณฑ์<wbr><span
+                            class="nowrap">โปรโมชั่น</span>หนึ่งชิ้น <br class="thbr xlarge large ie" /><wbr><span
+                            class="nowrap">ต่อ Mac</span> <wbr><span class="nowrap">ที่เข้าเกณฑ์</span><wbr><span
+                            class="nowrap">หรือ iPad</span> <wbr><span class="nowrap">ที่เข้าเกณฑ์</span><wbr><span
+                            class="nowrap">หนึ่งเครื่อง</span> ต่อผู้ซื้อที่มีคุณสมบัติผ่านเกณฑ์<wbr><span
+                            class="nowrap">หนึ่งราย</span> ข้อเสนอขึ้นอยู่กับ<wbr><span
+                            class="nowrap">ความพร้อม</span><wbr><span class="nowrap">ในการ</span><wbr><span
+                            class="nowrap">วางจำหน่าย</span> จนกว่าผลิตภัณฑ์จะหมด <wbr><span
+                            class="nowrap">ข้อเสนอ</span>นี้ไม่สามารถใช้ร่วมกับ<br
+                            class="thbr xlarge large ie" />แผนการซื้อสำหรับพนักงาน Apple
+                        หรือราคาสำหรับลูกค้าประจำประเภทธุรกิจ <wbr><span class="nowrap">ความพร้อม</span><wbr><span
+                            class="nowrap">ของข้อเสนอ</span><wbr><span
+                            class="nowrap">โปรโมชั่น</span>ภายในร้านอาจจำกัดตามการปิดบริการของ Apple&nbsp;Store
+                        แต่ละแห่ง<wbr><span class="nowrap">สืบเนื่อง</span>จาก <br
+                            class="thbr xlarge large ie" />COVID&#8209;19 อาจมี<wbr><span
+                            class="nowrap">ข้อจำกัด</span><wbr><span class="nowrap">เพิ่มเติม</span> ดู<wbr><span
+                            class="nowrap">ข้อกำหนด</span>และ<wbr><span
+                            class="nowrap">เงื่อนไข</span>ทั้งหมดของ<wbr><span class="nowrap">ข้อเสนอ</span> <a
+                            href="/th/shop/browse/home/back_to_school/terms_conditions">ที่นี่</a>
+                    </li>
+                    <li class="condition-2">© 2021 MARVEL © Netmarble Corp. & Netmarble Monster Inc. 2021 <span
+                            class="nowrap">สงวนสิทธิ์ทุกประการ</span>
+                    </li>
+                    <li class="condition-3">Apple TV+ ราคา ฿99/เดือน หลังหมดช่วงทดลองใช้ฟรี
+                        หนึ่งการสมัครสมาชิกต่อกลุ่ม<wbr><span style="white-space:nowrap;">การแชร์กัน</span>ในครอบครัว
+                        ข้อเสนอมีระยะเวลา
+                        3&nbsp;เดือนหลังการ<wbr><span style="white-space:nowrap;">เปิดใช้งาน</span><wbr><span
+                            style="white-space:nowrap;">อุปกรณ์</span><wbr><span class="nowrap">ที่เข้าเกณฑ์</span>
+                        <wbr><span class="nowrap">แผนบริการ</span>จะมีการต่ออายุโดยอัตโนมัติ<wbr><span
+                            class="nowrap">จนกว่าจะยกเลิก</span> อาจมีการใช้ข้อจำกัดและ <wbr><span class="nowrap"><a
+                                href="/th/promo/"><wbr><span class="nowrap">ข้อกำหนด</span></a> อื่นๆ</span>
+                    </li>
+                </ul>
+            </div>
+
+            <nav class="footer-menu">
+
+                <div class="footer-buy">
+                    <h3 class="footer-buy-item">เลือกซื้อและเรียนรู้</h3>
+                    <ul class="footer-buy-link">
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/mac/">Mac</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/ipad/">iPad</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/iphone/">iPhone</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/watch/">Watch</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/tv/">TV</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/music/">Music</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/airpods/">AirPods</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/ipod-touch/">iPod touch</a></li>
+                        <li class="footer-buy-item"><a href="https://www.apple.com/th/airtag/">AirTag</a></li>
+                        <li class="footer-buy-item"><a
+                                href="https://www.apple.com/th/shop/goto/buy_accessories">อุปกรณ์เสริม</a></li>
+                        <li class="footer-buy-item"><a
+                                href="https://www.apple.com/th/shop/goto/giftcards">บัตรของขวัญ</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footer-service">
+                    <h3 class="footer-service-item">การบริการ</h3>
+                    <ul class="footer-service-link">
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-music/">Apple Music</a>
+                        </li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-tv-plus/">Apple TV+</a>
+                        </li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-arcade/">Apple
+                                Arcade</a>
+                        </li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/icloud/">iCloud</a></li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-one/">Apple One</a></li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-books/">Apple Books</a>
+                        </li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/apple-podcasts/">Apple
+                                Podcasts</a></li>
+                        <li class="footer-service-item"><a href="https://www.apple.com/th/app-store/">App Store</a></li>
+                    </ul>
+
+                    <div class="footer-account">
+                        <h3 class="footer-account-item">บัญชี</h3>
+                        <ul class="footer-account-link">
+                            <li class="footer-account-item"><a href="https://appleid.apple.com/th/">จัดการกับ Apple ID
+                                    ของคุณ</a></li>
+                            <li class="footer-account-item"><a
+                                    href="https://www.apple.com/th/shop/goto/account">บัญชีสำหรับ
+                                    Apple Store</a></li>
+                            <li class="footer-account-item"><a href="https://www.icloud.com/">iCloud.com
+                                </a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div class="footer-applestore">
+                    <h3 class="footer-applestore-item">Apple Store</h3>
+                    <ul class="footer-applestore-link">
+                        <li class="footer-applestore-item"><a href="https://www.apple.com/th/retail/">ค้นหาร้าน</a></li>
+                        <li class="footer-applestore-item"><a
+                                href="https://www.apple.com/th/shop/goto/store">เลือกซื้อออนไลน์</a></li>
+                        <li class="footer-applestore-item"><a href="https://www.apple.com/th/retail/geniusbar/">Genius
+                                Bar</a></li>
+                        <li class="footer-applestore-item"><a href="https://www.apple.com/th/today/">Today at Apple</a>
+                        </li>
+                        <li class="footer-applestore-item"><a
+                                href="https://apps.apple.com/th/app/apple-store/id375380948?l=th">แอป Apple Store</a>
+                        </li>
+                        <li class="footer-applestore-item"><a
+                                href="https://www.apple.com/th/shop/goto/ww/financing">บริการด้านการเงิน</a></li>
+                        <li class="footer-applestore-item"><a href="https://www.apple.com/th/trade-in/">Apple Trade
+                                In</a>
+                        </li>
+                        <li class="footer-applestore-item"><a
+                                href="https://www.apple.com/th/recycling/">โครงการรีไซเคิลของ
+                                Apple</a></li>
+                        <li class="footer-applestore-item"><a
+                                href="https://www.apple.com/th/shop/goto/order/list">สถานะคำสั่งซื้อ</a></li>
+                        <li class="footer-applestore-item"><a
+                                href="https://www.apple.com/th/shop/goto/help">บริการช่วยเหลือด้านการซื้อ</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-forbiz">
+                    <h3 class="footer-forbiz-item">สำหรับธุรกิจ</h3>
+                    <ul class="footer-forbiz-link">
+                        <li class="footer-forbiz-item"><a href="https://www.apple.com/th/business/">Apple กับธุรกิจ</a>
+                        </li>
+                        <li class="footer-forbiz-item"><a
+                                href="https://www.apple.com/th/retail/business/">เลือกซื้อสินค้าสำหรับธุรกิจ</a></li>
+                    </ul>
+
+                    <div class="footer-fored">
+                        <h3 class="footer-fored-item">สำหรับการศึกษา</h3>
+                        <ul class="footer-fored-link">
+                            <li class="footer-fored-item"><a href="https://www.apple.com/th/education/">Apple
+                                    กับการศึกษา</a></li>
+                            <li class="footer-fored-item"><a
+                                    href="https://www.apple.com/th/shop/goto/educationrouting">เลือกซื้อสินค้าสำหรับมหาวิทยาลัย</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-forhealth">
+                        <h3 class="footer-forhealth-item">สำหรับการดูแลสุขภาพ</h3>
+                        <h4 class="footer-forhealth-item"><a href="https://www.apple.com/th/healthcare/">Apple
+                                กับการดูแลสุขภาพ</a></h4>
+                    </div>
+
+                </div>
+
+                <div class="footer-values">
+                    <h3 class="footer-values-item">ค่านิยมของ Apple</h3>
+                    <ul class="footer-values-link">
+                        <li class="footer-values-item"><a
+                                href="https://www.apple.com/th/accessibility/">การช่วยการเข้าถึง</a>
+                        </li>
+                        <li class="footer-values-item"><a href="https://www.apple.com/th/environment/">สิ่งแวดล้อม</a>
+                        </li>
+                        <li class="footer-values-item"><a href="https://www.apple.com/th/privacy/">ความเป็นส่วนตัว</a>
+                        </li>
+                        <li class="footer-values-item"><a
+                                href="https://www.apple.com/th/supplier-responsibility/">ความรับผิดชอบของซัพพลายเออร์</a>
+                        </li>
+                    </ul>
+
+                    <div class="footer-about">
+                        <h3 class="footer-about-item">เกี่ยวกับ Apple</h3>
+                        <ul class="footer-about-link">
+                            <li class="footer-about-item"><a href="https://www.apple.com/th/newsroom/">Newsroom</a></li>
+                            <li class="footer-about-item"><a href="https://www.apple.com/th/leadership/">ผู้บริหาร
+                                    Apple</a>
+                            </li>
+                            <li class="footer-about-item"><a href="https://www.apple.com/careers/th/">โอกาสด้านอาชีพ</a>
+                            </li>
+                            <li class="footer-about-item"><a href="https://investor.apple.com/">นักลงทุน</a></li>
+                            <li class="footer-about-item"><a
+                                    href="https://www.apple.com/compliance/">จริยธรรมและการปฏิบัติตาม</a></li>
+                            <li class="footer-about-item"><a href="https://www.apple.com/th/apple-events/">กิจกรรม</a>
+                            </li>
+                            <li class="footer-about-item"><a href="https://www.apple.com/th/contact/">ติดต่อ Apple</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </nav>
+
+
+            <div class="footer-groupabout">
+
+                <div class="footer-moreinfo">
+                    อีกหลากหลายวิธีในการเลือกซื้อ: <a href="/th/retail/"
+                        data-analytics-title="find an apple store">ค้นหา
+                        Apple
+                        Store</a> หรือ <a href="https://locate.apple.com/th/th/"
+                        data-analytics-title="other retailers or resellers" data-analytics-exit-link>ร้านค้าอื่นๆ</a>
+                    ใกล้คุณ
+                    <span class="nowrap">หรือโทร. 001-800-65-6957</span>
+                </div>
+
+                <div class="footer-groupabout-bottom">
+
+                    <div class="footer-language">
+                        <a href="https://www.apple.com/choose-country-region/">ไทย</a>
+                        <a href="https://www.apple.com/th-en/shop/browse/home_th_en" class="footer-language-en">Shop in
+                            English</a>
+                    </div>
+
+                    <div class="footer-copyright">
+                        Copyright © 2021 Apple Inc. สงวนสิทธิ์ทุกประการ
+                        <div class="footer-privacy">
+                            <a href="https://www.apple.com/th/privacy/privacy-policy/">นโยบายความเป็นส่วนตัว</a>
+                            <a
+                                href="https://www.apple.com/legal/internet-services/terms/site.html">ข้อกำหนดการใช้งาน</a>
+                            <a href="https://www.apple.com/th/shop/goto/help/sales_refunds">การขายและการคืนเงิน</a>
+                            <a href="https://www.apple.com/th/legal/">ข้อมูลทางกฎหมาย</a>
+                            <a href="https://www.apple.com/th/sitemap/">แผนผังเว็บไซต์</a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+    </section>
+
+</body>
+
+</html>
